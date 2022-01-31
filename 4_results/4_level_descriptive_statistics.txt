@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: NOMINAL RETAIL SALES (INDEX) (level)
+Mean: 81.22
+Median: 87.10
+Sample std: 30.71
+Variance: 943.40
+Lowest: 29.20
+Highest: 155.90
+--------------------------------------------------

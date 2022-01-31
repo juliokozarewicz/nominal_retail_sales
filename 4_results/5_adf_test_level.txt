@@ -1,0 +1,13 @@
+--------------------------------------------------
+ADF Results (level):
+
+Variable: NOMINAL RETAIL SALES (INDEX)
+ADF Test: -1.493778
+P-value: 0.831253
+Lags: 12
+Observations: 214
+Critical values:
+  1%: -4.001709
+  5%: -3.431208
+  10%: -3.139220
+--------------------------------------------------

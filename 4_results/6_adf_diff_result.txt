@@ -1,0 +1,15 @@
+--------------------------------------------------
+ADF Results:
+
+Nonseasonal differences needed for stationarity: 1
+
+Variable: NOMINAL RETAIL SALES (INDEX)
+ADF Test: -4.577992
+P-value: 0.001122
+Lags: 11
+Observations: 214
+Critical values:
+  1%: -4.001709
+  5%: -3.431208
+  10%: -3.139220
+--------------------------------------------------
